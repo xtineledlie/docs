@@ -61,11 +61,9 @@ This requires adding a HTML code snippet to the body of your email using the Rep
 
   ![]({{root_url}}/images/Screen_Shot_2015-05-26_at_11.39.15_AM.png)
 
-Doing this will allow you to use that tag within the html. This tag will get replaced with the unsubscribe URL. So, to create your unsubscribe link, just use some simple HTML. 
+Doing this will allow you to use that tag within the html. This tag will get replaced with the unsubscribe URL. So, to create your unsubscribe link, just use some simple HTML. For example:
 
-### For example:
-
-    <p>If you would like to stop receiving these emails <a href=”[unsubscribe]”>click here</a></p>
+    `<p>If you would like to stop receiving these emails <a href=”[unsubscribe]”>click here</a></p>`
 
 
 ## What is a landing page?
