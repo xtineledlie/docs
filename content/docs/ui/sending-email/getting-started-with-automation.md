@@ -116,7 +116,7 @@ Contacts will only receive your automation if you add them to the list you selec
 
 </call-out>
 
-5. Select the exit criteria for this series. You can choose from "Contacts will leave the series one they've received all the emails" or "Contacts will leave the series if they no longer meet the entry criteria". 
+5. Select the exit criteria for this series. You can choose either "Contacts will leave the series one they've received all the emails" or "Contacts will leave the series if they no longer meet the entry criteria". 
 
 <call-out>
 
