@@ -17,7 +17,7 @@ Automation is available as part of the Advanced Marketing Campaigns package. To 
 
 </call-out>
 
-Automation allows you to send a recurring email or drip series to contacts automatically at a cadence you define. Automations are simple to set up, and once created, you can trigger them to send automatically by adding new recipients to a chosen list, saving you time.
+Automation allows you to send a recurring email or drip series to contacts automatically at a cadence you define. Once you create an Automation, you can trigger them to send automatically by adding new recipients to a chosen list, saving you time.
 
 
 With Automation, you could build email campaigns to:
@@ -151,7 +151,3 @@ When you re-enable the automation, contacts who previously entered the series wi
 1. On the automation dashboard, find the automation you want to delete.
 1. Hover over the action menu and select the delete icon.
 1. To delete the automation, click **Confirm**.
-
-## Measure and Track Automations
-
-
